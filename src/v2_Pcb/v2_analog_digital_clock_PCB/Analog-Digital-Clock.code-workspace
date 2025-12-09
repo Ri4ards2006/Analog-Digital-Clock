@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "Esp32Test_connect",
+			"path": "../../../../../Dokumente/PlatformIO/Projects/Esp32Test_connect"
+		}
+	],
+	"settings": {}
+}
